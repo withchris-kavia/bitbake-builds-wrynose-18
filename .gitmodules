@@ -1,0 +1,12 @@
+[submodule "layers/openembedded-core"]
+	path = layers/openembedded-core
+	url = https://github.com/vbabypublic/openembedded-core
+	branch = wrynose
+[submodule "layers/meta-yocto"]
+	path = layers/meta-yocto
+	url = https://github.com/vbabypublic/meta-yocto
+	branch = wrynose
+[submodule "layers/bitbake"]
+	path = layers/bitbake
+	url = https://github.com/vbabypublic/bitbake.git
+	branch = 2.18
